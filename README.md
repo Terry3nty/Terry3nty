@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Terry3nty
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning finishing touches on Frontend
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me +2348167431260 WhatsApp
 
