@@ -56,6 +56,13 @@ A solar-powered orb controlled by phone, designed to:
 
 ---
 
+## 📈 GitHub Stats
+
+![Trinity's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrinityAdeleye&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrinityAdeleye&layout=compact&theme=radical)
+
+---
+
 ## 🧰 Tools I Use
 
 - VS Code, Git & GitHub, Figma, Canva
