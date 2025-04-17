@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate **Web Designer**, **Graphics Designer**, 
 
 ## 🧠 About Me
 
-- 🔭 Currently learning: **Full-Stack Development**, **WordPress**, **AI (Machine Learning, Computer Vision)**, and **Arduino-based robotics**.
+- 🔭 Currently learning: **Full-Stack Development**, **WordPress**, **AI (Machine Learning, Computer Vision)**, and **Arduino-based robotics**, **UIUX** too.
 - 🌱 Working on: An **AI Assistant named Alex** (think mini JARVIS 🤖) and a **Floating Orb project** that tracks and follows me using solar power and AI.
 - 🎯 Goal: To build helpful apps, design smooth user experiences, and launch Cortex — a future brand of smart technology solutions.
 - 🎮 Gamer at heart — currently exploring the Second Sea in **Blox Fruits** 🗺️
@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate **Web Designer**, **Graphics Designer**, 
 
 ### 👨🏾‍💻 Programming & Dev:
 - HTML5, CSS3, JavaScript, React
-- Python (automation, AI, scripts)
+- Python (automation, AI, scripts)(begineer)
 - Django (beginner)
 - WordPress (themes, plugins, site customization)
 
@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a passionate **Web Designer**, **Graphics Designer**, 
 
 ### 🎨 Design:
 - UI/UX Design
-- Graphics Design (Adobe Illustrator, Canva)
+- Graphics Design (Canva, figma)
 - Email Design (Mailchimp, custom HTML emails)
 
 ---
