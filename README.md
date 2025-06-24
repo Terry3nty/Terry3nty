@@ -18,14 +18,15 @@ Welcome to my GitHub! I'm a passionate **Web Designer**, **Graphics Designer**, 
 ## 🛠️ Skills
 
 ### 👨🏾‍💻 Programming & Dev:
-- HTML5, CSS3, JavaScript, React
+- HTML5, CSS3, JavaScript, React (learning JS ♥️)
 - Python (automation, AI, scripts)(begineer)
 - Django (beginner)
 - WordPress (themes, plugins, site customization)
+- C++ (just for arduino, esp32 》》 Arduino uno)
 
 ### 🧠 AI / Robotics:
 - Computer Vision (OpenCV, tracking systems)
-- Voice Assistants (SpeechRecognition, pyttsx3)
+- Voice Assistants (SpeechRecognition, pyttsx3) ✔️ 
 - Arduino Projects (motor control, sensor usage)
 
 ### 🎨 Design:
@@ -37,7 +38,7 @@ Welcome to my GitHub! I'm a passionate **Web Designer**, **Graphics Designer**, 
 
 ## 🚀 Projects
 
-### 🔹 [Alex – Personal AI Assistant](#)
+### 🔹 [Alex – Personal AI Assistant](#) (prototype done)
 A customizable AI assistant that can:
 - Respond to voice commands
 - Open/close apps, automate PC tasks
@@ -82,4 +83,4 @@ A solar-powered orb controlled by phone, designed to:
 
 ---
 
-> "I don’t just want to use tech—I want to shape it." – Trinity Adeleye
+> "I don’t just want to use tech, I want to shape it." – Trinity Adeleye
