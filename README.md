@@ -1,7 +1,7 @@
 ![My Picture](https://avatars.githubusercontent.com/u/133876754?v=4)
 # 👋🏾 Hi, I'm Trinity
 
-Welcome to my GitHub! I'm a passionate **Web Designer**, **Graphics Designer**, and **Email Designer** with a strong interest in **Full-Stack Development**, **AI systems**, and building digital tools that make life easier. I love creating clean, user-friendly experiences, and I'm on a journey to become a well-rounded **Software Engineer**.
+Welcome to my GitHub! I'm a passionate **Front-end Developer**, with a strong interest in **Full-Stack Development**, **AI systems**, and building digital tools that make life easier. I love creating clean, user-friendly experiences, and I'm on a journey to become a well-rounded **Software Engineer**.
 
 ---
 
@@ -18,10 +18,8 @@ Welcome to my GitHub! I'm a passionate **Web Designer**, **Graphics Designer**, 
 ## 🛠️ Skills
 
 ### 👨🏾‍💻 Programming & Dev:
-- HTML5, CSS3, JavaScript, React (learning JS ♥️)
-- Python (automation, AI, scripts)(begineer)
-- Django (beginner)
-- WordPress (themes, plugins, site customization)
+- HTML5, CSS3, JavaScript(learning JS ♥️)
+- Python (begineer)
 - C++ (just for arduino, esp32 》》 Arduino uno)
 
 ### 🧠 AI / Robotics:
@@ -51,18 +49,12 @@ A solar-powered orb controlled by phone, designed to:
 - Use Bluetooth, Arduino, and DC motors
 - Be as low-cost as possible for students
 
-### 🔹 [Anime Streaming Website (Coming Soon)](#)
-- Like AnimeHeaven, but better. No ads, just clean anime & downloads.
-- Building with **React**, **Django**, and **MySQL**
-- Subscription-based model (one plan, full access)
-
 ---
 
 ## 🧰 Tools I Use
 
 - VS Code, Git & GitHub, Figma, Canva
 - Arduino IDE
-- Notion (for life & project planning)
 - Command line (I love a clean terminal ⚙️)
 
 ---
@@ -78,7 +70,7 @@ A solar-powered orb controlled by phone, designed to:
 ## 🔖 Fun Facts
 
 - My secret handshake: 👍🏾👊🏾✊🏾🤜🏾🫰🏾🤙🏾🤝🏾
-- Planning to be a millionaire... responsibly (lawyer, will, protections by 25 💼) xoxo😂
+- Planning to be a millionaire... responsibly (lawyer, will-protections by 25 💼) xoxo😂
 - Always learning. Always building.
 
 ---
