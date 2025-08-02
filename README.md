@@ -19,6 +19,7 @@ Welcome to my GitHub! I'm a passionate **Front-end Developer**, with a strong in
 
 ### 👨🏾‍💻 Programming & Dev:
 - HTML5, CSS3, JavaScript(learning JS ♥️)
+- React/vite & TailwindCSS (my favorite duo)
 - Python (begineer)
 - C++ (just for arduino, esp32 》》 Arduino uno)
 
