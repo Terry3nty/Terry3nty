@@ -1,5 +1,5 @@
 ![My Picture](https://avatars.githubusercontent.com/u/133876754?v=4)
-# 👋🏾 Hi, I'm Trinity
+# 👋🏾 Hi, I'm Hikaru
 
 Welcome to my GitHub! I'm a passionate **Front-end Developer**, with a strong interest in **Full-Stack Development**, **AI systems**, and building digital tools that make life easier. I love creating clean, user-friendly experiences, and I'm on a journey to become a well-rounded **Software Engineer**.
 
