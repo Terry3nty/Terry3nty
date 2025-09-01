@@ -76,4 +76,4 @@ A solar-powered orb controlled by phone, designed to:
 
 ---
 
-> "I don’t just want to use tech, I want to shape it." – Trinity Adeleye
+> "I don’t just want to use tech, I want to shape it." – Hikaru 
