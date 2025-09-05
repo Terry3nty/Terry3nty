@@ -62,8 +62,8 @@ A solar-powered orb controlled by phone, designed to:
 
 ## 📫 Let's Connect
 
-- 📧 Email: terryxaxis@outlook.com | terryxaxis@gmail.com
-- 🌐 Website: *Coming Soon...*
+- 📧 Email: terryxaxis@outlook.com | terryxaxis@gmail.com | hikarusan022@gmail.com
+- 🌐 Website: [Website](https://hikaru.pxxl.xyz/)
 - 💬 Discord: @terry3nty (ask me for it 😄)
 
 ---
