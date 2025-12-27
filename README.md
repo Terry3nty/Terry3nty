@@ -1,5 +1,5 @@
 ![My Picture](https://avatars.githubusercontent.com/u/133876754?v=4)
-# 👋🏾 Hi, I'm Hikaru
+# 👋🏾 Hi, I'm Trinity Adeleye (a.k.a Hikaru)
 
 Welcome to my GitHub! I'm a passionate **Front-end Developer**, with a strong interest in **Full-Stack Development**, **AI systems**, and building digital tools that make life easier. I love creating clean, user-friendly experiences, and I'm on a journey to become a well-rounded **Software Engineer**.
 
@@ -19,9 +19,9 @@ Welcome to my GitHub! I'm a passionate **Front-end Developer**, with a strong in
 
 ### 👨🏾‍💻 Programming & Dev:
 - HTML5, CSS3, JavaScript(learning JS ♥️)
-- React/vite & TailwindCSS (my favorite duo)
+- React/vite, NextJs & TailwindCSS (my favorites)
 - Python (begineer)
-- C++ (just for arduino, esp32 》》 Arduino uno)
+- C++ (just for arduino,my opinion : esp32 》》 Arduino uno)
 
 ### 🧠 AI / Robotics:
 - Computer Vision (OpenCV, tracking systems)
@@ -50,6 +50,8 @@ A solar-powered orb controlled by phone, designed to:
 - Use Bluetooth, Arduino, and DC motors
 - Be as low-cost as possible for students
 
+### 🔹[AirBase (coming ) ](#)
+
 ---
 
 ## 🧰 Tools I Use
@@ -57,13 +59,14 @@ A solar-powered orb controlled by phone, designed to:
 - VS Code, Git & GitHub, Figma, Canva
 - Arduino IDE
 - Command line (I love a clean terminal ⚙️)
+- Wsl (Ubuntu)
 
 ---
 
 ## 📫 Let's Connect
 
 - 📧 Email: terryxaxis@outlook.com | terryxaxis@gmail.com | hikarusan022@gmail.com
-- 🌐 Website: [Website](https://hikaru.pxxl.xyz/)
+- 🌐 Website: [Website](https://hikarusama.vercel.app/)
 - 💬 Discord: @terry3nty (ask me for it 😄)
 
 ---
@@ -71,9 +74,9 @@ A solar-powered orb controlled by phone, designed to:
 ## 🔖 Fun Facts
 
 - My secret handshake: 👍🏾👊🏾✊🏾🤜🏾🫰🏾🤙🏾🤝🏾
-- Planning to be a millionaire... responsibly (lawyer, will-protections by 25 💼) xoxo😂
+- xoxo😂
 - Always learning. Always building.
 
 ---
 
-> "I don’t just want to use tech, I want to shape it." – Hikaru 
+> "I don’t just want to use tech, I want to shape it." – Trinity Adeleye 
