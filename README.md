@@ -1,13 +1,13 @@
 ![My Picture](https://avatars.githubusercontent.com/u/133876754?v=4)
 # 👋🏾 Hi, I'm Trinity Adeleye (a.k.a Hikaru)
 
-Welcome to my GitHub! I'm a passionate **Front-end Developer**, with a strong interest in **Full-Stack Development**, **AI systems**, and building digital tools that make life easier. I love creating clean, user-friendly experiences, and I'm on a journey to become a well-rounded **Software Engineer**.
+Welcome to my GitHub! I'm a passionate **Full-stack Developer**, with a strong interest in **AI systems**, and building digital tools that make life easier. I love creating clean, user-friendly experiences, and I'm on a journey to become a well-rounded **Software Engineer**.
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently learning: **Full-Stack Development**, **WordPress**, **AI (Machine Learning, Computer Vision)**, and **Arduino-based robotics**, **UIUX** too.
+- 🔭 Currently learning: **AI (Machine Learning, Computer Vision)**, and **Arduino-based robotics**, **UIUX** too.
 - 🌱 Working on: An **AI Assistant named Alex** (think mini JARVIS 🤖) and a **Floating Orb project** that tracks and follows me using solar power and AI.
 - 🎯 Goal: To build helpful apps, design smooth user experiences, and launch Cortex — a future brand of smart technology solutions.
 - 🎮 Gamer at heart — currently exploring the Second Sea in **Blox Fruits** 🗺️
@@ -18,9 +18,9 @@ Welcome to my GitHub! I'm a passionate **Front-end Developer**, with a strong in
 ## 🛠️ Skills
 
 ### 👨🏾‍💻 Programming & Dev:
-- HTML5, CSS3, JavaScript(learning JS ♥️)
+- HTML5, CSS3, JavaScript
 - React/vite, NextJs & TailwindCSS (my favorites)
-- Python (begineer)
+- Python 
 - C++ (just for arduino,my opinion : esp32 》》 Arduino uno)
 
 ### 🧠 AI / Robotics:
