@@ -13,15 +13,15 @@ Just a chill guy mehnn,
 ## 🛠️ Skills
 
 ### 👨🏾‍💻 Programming & Dev:
-- HTML5, CSS3, JavaScript
-- React/vite, NextJs & TailwindCSS (my favorites)
-- Python
+- JavaScript/Typescript
+- React, React Native, NextJs & TailwindCSS (my favorites)
+- Python for Ai engineering mainly
 - Rust for backend and IoT too (esp 32 is better than arduino )
 
 ### 🧠 AI / Robotics:
 - Computer Vision (OpenCV, tracking systems)
-- Voice Assistants (SpeechRecognition, pyttsx3) ✔️ 
-- Arduino Projects (motor control, sensor usage)
+- Voice Assistants (SpeechRecognition, pyttsx3) 
+- Arduino Projects (motor control, sensor usage) 
 
 ---
 
