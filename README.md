@@ -15,8 +15,7 @@ Just a chill guy mehnn,
 ### 👨🏾‍💻 Programming & Dev:
 - JavaScript/Typescript
 - React, React Native, NextJs & TailwindCSS (my favorites)
-- Python for Ai engineering mainly
-- Rust for backend and IoT too (esp 32 is better than arduino )
+- Go for backend 
 
 ### 🧠 AI / Robotics:
 - Computer Vision (OpenCV, tracking systems)
